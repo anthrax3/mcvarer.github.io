@@ -1,2 +1,1 @@
-# mcvarer.github.io
-Blog
+mcvarer.github.io
